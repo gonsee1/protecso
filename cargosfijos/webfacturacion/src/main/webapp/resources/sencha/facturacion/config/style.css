@@ -1,0 +1,32 @@
+.ux-desktop-panel-shortcut{
+    float:left;
+    width:100px;
+    height: 120px;
+}
+.x-tab-icon-el{
+    display:inline !important;
+}
+.x-btn-icon-el{
+    display:inline !important;
+}
+/*Boton de file cargar archivo */
+
+/*toolbar*/
+.x-toolbar-default{
+    padding: 0;
+}
+.x-toolbar-footer{
+    padding: 0;
+}
+.x-btn-plain-toolbar-small-icon .x-btn-icon-el{
+    width: 16px;
+    height: 16px;
+}
+.x-btn-plain-toolbar-small-icon .x-btn-inner{
+    width: 16px;
+    height: 16px;    
+}
+.x-toolbar .x-btn{
+    padding-right: 0px;
+    padding-left: 0px;
+}
